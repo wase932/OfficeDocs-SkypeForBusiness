@@ -29,7 +29,7 @@ In July 2019, we announced **Skype for Business Online will be retired on July 3
 
 Since its introduction, Skype for Business Online has been a valuable tool for millions of people around the world. By combining instant messaging, calling, and video into one application, Skype for Business Online established new possibilities for business communications. Microsoft Teams is the next chapter in that vision.
 
-The capabilities of Microsoft Teams go beyond those of Skype for Business Online. By combining chat, video, calling, document collaboration, and application integration into a single experience, Teams enables entirely news way of working. And ongoing platform innovation and development means Teams users benefit from richer performance, functionality, flexibility, and security.
+The capabilities of Microsoft Teams go beyond those of Skype for Business Online. By combining chat, video, calling, document collaboration, and application integration into a single experience, Teams enables entirely new ways of working. And ongoing platform innovation and development means Teams users benefit from richer performance, functionality, flexibility, and security.
 
 Teams isn’t just an upgrade for Skype for Business Online, it’s a powerful tool that enables companies, schools, and organizations to become more agile and improve the efficiency of key workflows. Learn more about the potential benefits of Teams for your organization in the Forrester white paper, [The Total Economic Impact™ of Microsoft Teams](https://www.microsoft.com/microsoft-365/blog/wp-content/uploads/sites/2/2019/04/Total-Economic-Impact-Microsoft-Teams.pdf?rtc=1).
 
